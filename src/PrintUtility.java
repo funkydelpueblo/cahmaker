@@ -200,7 +200,7 @@ public class PrintUtility {
 		    	
 		    	//Draw text
 		    	g2d.setColor(this.foreground);
-		    	PrintUtility.drawString(g2d, "Cards Against Humanity", x + 15, y + 35, WIDTH - 30, 2);
+		    	PrintUtility.drawString(g2d, "Calls About Hermajesty", x + 15, y + 35, WIDTH - 30, 2);
 		    	
 		    	//Bound card
 		    	/*g2d.drawLine(x, y, x + WIDTH, y);
