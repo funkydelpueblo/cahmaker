@@ -1,7 +1,8 @@
 cahmaker
 ========
 
-Java utility for printing custom Cards Against Humanity cards.
+Java utility for printing custom cards for card games involving black/white cards, and corresponding phrases on them,
+whatever card game that may be, especially ones with the initials CAH.
 
 
 External Libraries
